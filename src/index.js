@@ -1,11 +1,14 @@
-import "./styles.css";
+/**
+ * const,let
+ */
 
-document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
-<p>へーーーい</p>
-<div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
-</div>
-`;
+//  let val = "let変数";
+//  console.log(val);
+
+// val = "上書きできるよ";
+// console.log(val);
+
+// // letの再宣言は×
+// let val = "再宣言はだめだよ";
+
+const val2 
