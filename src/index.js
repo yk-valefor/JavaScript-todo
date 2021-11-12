@@ -2,9 +2,9 @@ import "./styles.css";
 
 const onClickAdd = () => {
   // テキストボックスの値を取得、入力内容を初期化する
-  const inputText = document.getElementById("add-text").value;
+  const text = document.getElementById("add-text").value;
   document.getElementById("add-text").value = "";
-  createUncompleteList(inputText);
+  createUncompleteList(text);
 };
 
 //　【関数】未完了リストから指定の要素を削除
