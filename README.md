@@ -1,4 +1,4 @@
-# Javascript-todo
+# JavaScript-todo
 
 todo created by JavaScript
 
