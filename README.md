@@ -25,4 +25,4 @@ not use framework
 
 ## Licence
 
-[MIT](https://......)
+[MIT](https://github.com/yk-valefor/JavaScript-todo/blob/main/LICENSE)
