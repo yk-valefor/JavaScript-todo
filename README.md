@@ -1,6 +1,6 @@
 # JavaScript-todo
 
-todo created by JavaScript
+Todo created by JavaScript.
 
 ## Overview
 
