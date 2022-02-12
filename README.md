@@ -13,7 +13,8 @@ JavaScript practice
 
 ## Features
 
-not use framework
+It's not use framework
+I created [something similar to this by React.](https://github.com/yk-valefor/react-todo)
 
 ## Reference
 
